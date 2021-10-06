@@ -6,5 +6,5 @@ It started life as a local git repository.
 
 But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 But now it *is* on GitHub as a remote repository!
-Hi, my name is Toye Akinoso and i live in birmingham
+Hi, my name is Toye Akinoso and i live in birmingham and im a twin
 
